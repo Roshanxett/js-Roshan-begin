@@ -6,3 +6,4 @@ let age = 23
 let isLoggedIn = true
 let state;
 console.log(typeof isLoggedIn)
+console.log(typeof age)
