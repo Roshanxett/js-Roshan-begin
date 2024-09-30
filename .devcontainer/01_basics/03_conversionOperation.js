@@ -9,3 +9,8 @@ console.log(typeof score);
 let someNumber = 22
 let stringNumber =String(someNumber)
 console.log(stringNumber);
+//*******************operation *//
+let str1 = "Hi"
+let str2 = "Roshan"
+let str3 = str1 + str2
+console.log(str3)
